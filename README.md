@@ -2,8 +2,12 @@
 <h3 align="center">Computer Science Student | Aspiring Software Engineer</h3>
 
 ---
-
+### Recent Projects:
 ### 🌐 Connect with Me:
+<p align="left">
+  <a href="https://smartlybuy.online/"target="_blank">
+  </a>
+</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/zain-mahmood-113882365"target="_blank">

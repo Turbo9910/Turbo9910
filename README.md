@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student | Aspiring Software Engineer</h3>
 
 ---
-### 🧠 Recent Projects
+### 🧠 Recent Projects:
 
 <p align="left">
   <a href="https://smartlybuy.online/" target="_blank">

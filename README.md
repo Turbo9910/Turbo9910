@@ -2,11 +2,16 @@
 <h3 align="center">Computer Science Student | Aspiring Software Engineer</h3>
 
 ---
-### Recent Projects:
+### 🧠 Recent Projects
+
 <p align="left">
-  <a href="https://smartlybuy.online/"target="_blank">
+  <a href="https://smartlybuy.online/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20SmartlyBuy%20-%2300C853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="SmartlyBuy Website"/>
   </a>
 </p>
+
+> **SmartlyBuy** – A modern **price comparison platform** that helps users find the best deals across multiple online stores using intelligent product matching and real-time updates.
+
 
 ### 🌐 Connect with Me:
 

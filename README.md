@@ -3,11 +3,12 @@
 
 ---
 ### Recent Projects:
-### 🌐 Connect with Me:
 <p align="left">
   <a href="https://smartlybuy.online/"target="_blank">
   </a>
 </p>
+
+### 🌐 Connect with Me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/zain-mahmood-113882365"target="_blank">

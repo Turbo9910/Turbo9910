@@ -1,24 +1,6 @@
-<h1 align="center">Hi 👋, I'm Zain Mahmood</h1>
 <h3 align="center">
-  <span id="typed-text"></span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00C853&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Zain+Mahmood;Computer+Science+Student;Aspiring+Software+Engineer;AI+Enthusiast;Web+Developer" alt="Typing SVG"/>
 </h3>
-
-<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
-<script>
-  document.addEventListener("DOMContentLoaded", function(){
-    new Typed('#typed-text', {
-      strings: [
-        "Computer Science Student",
-        "Aspiring Software Engineer",
-        "AI Enthusiast",
-        "Web Developer"
-      ],
-      typeSpeed: 50,
-      backSpeed: 30,
-      loop: true
-    });
-  });
-</script>
 
 ---
 

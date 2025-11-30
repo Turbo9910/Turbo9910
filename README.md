@@ -1,6 +1,15 @@
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00C853&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Zain+Mahmood;Computer+Science+Student;Aspiring+Software+Engineer;AI+Enthusiast;Web+Developer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00C853&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Zain+Mahmood" alt="Typing Name"/>
 </h3>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00C853&center=true&vCenter=true&width=600&lines=Computer+Science+Student" alt="Typing CS Student"/>
+</h3>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00C853&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer" alt="Typing Software Engineer"/>
+</h3>
+
 
 ---
 

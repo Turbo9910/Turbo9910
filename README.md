@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Zain+Mahmood&repeat=false" alt="Typing Zain Mahmood"/>
 </h1>
+<h3 align="center">Computer Science Student | Aspiring Software Engineer</h3>
 
 
 

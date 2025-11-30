@@ -1,22 +1,48 @@
 <h1 align="center">Hi 👋, I'm Zain Mahmood</h1>
-<h3 align="center">Computer Science Student | Aspiring Software Engineer</h3>
+<h3 align="center">
+  <span id="typed-text"></span>
+</h3>
+
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function(){
+    new Typed('#typed-text', {
+      strings: [
+        "Computer Science Student",
+        "Aspiring Software Engineer",
+        "AI Enthusiast",
+        "Web Developer"
+      ],
+      typeSpeed: 50,
+      backSpeed: 30,
+      loop: true
+    });
+  });
+</script>
 
 ---
+
 ### 🧠 Recent Projects:
 
 <p align="left">
   <a href="https://smartlybuy.online/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20SmartlyBuy%20-%2300C853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="SmartlyBuy Website"/>
   </a>
+  <a href="https://studium-ai-course-builder.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Studium%20-%23007ACC?style=for-the-badge&logo=vercel&logoColor=white" alt="Studium AI Course Builder"/>
+  </a>
 </p>
 
 > **SmartlyBuy** – A modern **price comparison platform** that helps users find the best deals across multiple online stores using intelligent product matching and real-time updates.
 
+> **Studium AI Course Builder** – An **AI-powered course creation platform** that allows users to build, customize, and publish professional online courses in minutes.
+
+---
 
 ### 🌐 Connect with Me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/zain-mahmood-113882365"target="_blank">
+  <a href="https://www.linkedin.com/in/zain-mahmood-113882365" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.kaggle.com/zainmahmod" target="_blank">
